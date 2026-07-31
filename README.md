@@ -1,11 +1,28 @@
-# Olá! Eu sou Antônio Carlos 
+# Olá! 👋 Eu sou Antônio Carlos
 
-💻 Desenvolvedor Front-end em formação
+💻 Desenvolvedor em formação.
 
-## Tecnologias que estou aprendendo
-- HTML
-- CSS
-- JavaScript
+## 🚀 Atualmente estou aprendendo
 
-🎯 Objetivo
-Conseguir minha primeira oportunidade como desenvolvedor e evoluir para Full Stack.
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- ☕ Java
+
+## 🎯 Objetivo
+
+Busco evoluir minhas habilidades em desenvolvimento de software, criando projetos práticos e aprendendo novas tecnologias todos os dias.
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+</p>
+
+## 📌 Projetos
+
+Aqui você encontrará os projetos que desenvolvo durante meus estudos, acompanhando minha evolução como programador.
+
+---
+
+⭐ Sempre aprendendo, praticando e desenvolvendo novos projetos.
