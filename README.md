@@ -1,4 +1,4 @@
-# Olá! Eu sou Antônio Carlos 👋
+# Olá! Eu sou Antônio Carlos 
 
 💻 Desenvolvedor Front-end em formação
 
