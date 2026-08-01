@@ -11,7 +11,7 @@
 
 ## 🎯 Objetivo
 
-Busco evoluir minhas habilidades em desenvolvimento de software, criando projetos práticos e aprimorando meus conhecimentos a cada novo desafio.
+Busco evoluir minhas habilidades, criando projetos práticos e aprimorando meus conhecimentos a cada novo desafio.
 
 ## Tecnologias
 
