@@ -2,18 +2,18 @@
 
 💻 Desenvolvedor em formação.
 
-##  Atualmente estou aprendendo
+## Atualmente estou aprendendo
 
--  HTML
--  CSS
--  JavaScript
--  Java
+- HTML
+- CSS
+- JavaScript
+- Java
 
 ## 🎯 Objetivo
 
 Busco evoluir minhas habilidades em desenvolvimento de software, criando projetos práticos e aprimorando meus conhecimentos a cada novo desafio.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
@@ -23,15 +23,14 @@ Busco evoluir minhas habilidades em desenvolvimento de software, criando projeto
 
 ### Gerador CSS IA
 
-Uma aplicação web que utiliza inteligência artificial para auxiliar na criação de estilos CSS de forma rápida e prática.
+Aplicação web que auxilia na criação de estilos CSS com inteligência artificial.
 
-**utilizadas:**
-- HTML
-- CSS
-- JavaScript
+### PJ 1º Ano
 
+Projeto web desenvolvido para prática de desenvolvimento front-end.
+
+🔗 **Repositório:** https://github.com/antoniocarlosdevpe/PJ-1ano 
 🔗 **Repositório:** https://github.com/antoniocarlosdevpe/Gerador-Css-IA
-
 ---
 
 Sempre aprendendo, praticando e desenvolvendo novos projetos.
