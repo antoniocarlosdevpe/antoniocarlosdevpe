@@ -23,14 +23,16 @@ Busco evoluir minhas habilidades em desenvolvimento de software, criando projeto
 
 ### Gerador CSS IA
 
-Aplicação web que auxilia na criação de estilos CSS com inteligência artificial.
-
 ### PJ 1º Ano
 
-Projeto web desenvolvido para prática de desenvolvimento front-end.
+---
+
+Projetos desenvolvido para prática de desenvolvimento front-end.
 
 🔗 **Repositório:** https://github.com/antoniocarlosdevpe/PJ-1ano 
+
 🔗 **Repositório:** https://github.com/antoniocarlosdevpe/Gerador-Css-IA
+
 ---
 
 Sempre aprendendo, praticando e desenvolvendo novos projetos.
